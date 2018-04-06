@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Puppet Enterprise Environment</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Puppet Enterprise Environment</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">4cbd39e6b92013006517ce7df7ee4685</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 17:25:41</sys_created_on>
+        <sys_id>2e974db1db9d9b0070b6f7b51d96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puppet Enterprise Environment</sys_name>
+        <sys_package display_value="Config Management Puppet" source="x_snc_puppet_conf">2cceb4f5db5d9b0070b6f7b51d9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Config Management Puppet">2cceb4f5db5d9b0070b6f7b51d9619c7</sys_scope>
+        <sys_update_name>sys_wizard_answer_2e974db1db9d9b0070b6f7b51d96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 17:25:41</sys_updated_on>
+        <table/>
+        <target_url>x_snc_puppet_conf_u_cmdb_ci_puppet_enterprise_environment.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

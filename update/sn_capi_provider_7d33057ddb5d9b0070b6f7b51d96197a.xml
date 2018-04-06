@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_capi_provider">
+    <sn_capi_provider action="INSERT_OR_UPDATE">
+        <datacenter_class/>
+        <description/>
+        <name>Puppet</name>
+        <sys_class_name>sn_capi_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 17:06:31</sys_created_on>
+        <sys_id>7d33057ddb5d9b0070b6f7b51d96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puppet</sys_name>
+        <sys_package display_value="Config Management Puppet" source="x_snc_puppet_conf">2cceb4f5db5d9b0070b6f7b51d9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Config Management Puppet">2cceb4f5db5d9b0070b6f7b51d9619c7</sys_scope>
+        <sys_update_name>sn_capi_provider_7d33057ddb5d9b0070b6f7b51d96197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 17:06:31</sys_updated_on>
+    </sn_capi_provider>
+</record_update>
