@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_global_prop">
+    <sn_cmp_bp_global_prop action="INSERT_OR_UPDATE">
+        <bp_stage_operation display_value="Provision">abb6290bdb5d5f0070b6f7b51d96192f</bp_stage_operation>
+        <bp_stage_res_op_attr display_value="ManagementAttributes">3e27e14bdb5d5f0070b6f7b51d96197c</bp_stage_res_op_attr>
+        <mandatory>false</mandatory>
+        <name>Virtual_Server_ManagementAttributes</name>
+        <order>4058</order>
+        <resource_op_unique_id>7002</resource_op_unique_id>
+        <sys_class_name>sn_cmp_bp_global_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-10 16:56:00</sys_created_on>
+        <sys_id>7227e14bdb5d5f0070b6f7b51d96197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Virtual_Server_ManagementAttributes</sys_name>
+        <sys_package display_value="Config Management Puppet" source="x_snc_puppet_conf">2cceb4f5db5d9b0070b6f7b51d9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Config Management Puppet">2cceb4f5db5d9b0070b6f7b51d9619c7</sys_scope>
+        <sys_update_name>sn_cmp_bp_global_prop_7227e14bdb5d5f0070b6f7b51d96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-10 16:56:00</sys_updated_on>
+    </sn_cmp_bp_global_prop>
+</record_update>
